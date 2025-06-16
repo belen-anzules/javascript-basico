@@ -13,8 +13,8 @@ function imprimirVariables(){
     // Forma moderna de concatenar cadenas
     console.log(`nombre: ${nombre}, edad: ${edad}`);
     // Otros tipos de impresión
-    console.error("Error: bla bla bla");
-    console.warn("Advertencia: x x x");
+    console.error("Error: xd");
+    console.warn("Advertencia: .....");
 }
 
 function arreglos(){
