@@ -32,7 +32,7 @@ function arreglos(){
     }
 }
 // Agregar evente a un elemento HTML
-document.getElementById("btnSaludar").addEventListener(
+document.getElementById("btnHola").addEventListener(
     "click", function () {
         console.log("Hola!");
     }
