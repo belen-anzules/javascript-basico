@@ -71,5 +71,8 @@ document.getElementById("btnAddPalabra").addEventListener (
         nuevoItem.textContent = textMayuscula;
         // Agregar item a la lista
         lista.appendChild(nuevoItem);
+         // limpiar y establecer foco
+        input.value = "";
+        input.focus();
  }
 
