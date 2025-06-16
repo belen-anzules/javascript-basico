@@ -5,8 +5,8 @@ function mostrarMensaje(){
 
 // Variables
 function imprimirVariables(){
-    let nombre = "Rodrigo";
-    let edad = 42;
+    let nombre = "Belén";
+    let edad = 23;
     // Forma tradicional de concatenar cadenas
     console.log("nombre: ", nombre);
     console.log("edad: ", edad);
